@@ -1,0 +1,6 @@
+vendor/
+composer.lock
+*.swp
+*~
+.*.hhast.*cache
+.var/
